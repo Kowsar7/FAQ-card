@@ -1,0 +1,22 @@
+.FAQAccordionCard {
+    height: 100vh;
+    background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+    margin: 0;
+    text-align: center;
+    bottom: 0;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a, a:active {
+    text-decoration: none;
+    color: #fff;
+}
+
+.attribution a:active, a:hover {
+    color: hsl(273, 73%, 63%);
+    text-decoration: underline;
+}
