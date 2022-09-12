@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FAQ-card/static/css/main.560ce1a0.css",
+    "main.js": "/FAQ-card/static/js/main.471e537c.js",
+    "static/js/787.bf125a00.chunk.js": "/FAQ-card/static/js/787.bf125a00.chunk.js",
+    "static/media/illustration-woman-online-mobile.svg": "/FAQ-card/static/media/illustration-woman-online-mobile.fe928f9c476ef6d332672b3ab38268fd.svg",
+    "static/media/illustration-woman-online-desktop.svg": "/FAQ-card/static/media/illustration-woman-online-desktop.843eb114c7213a596ee246bf87f27008.svg",
+    "static/media/illustration-box-desktop.svg": "/FAQ-card/static/media/illustration-box-desktop.ec1ba14b853c562a663728483bac4824.svg",
+    "static/media/bg-pattern-desktop.svg": "/FAQ-card/static/media/bg-pattern-desktop.f51e07a2f52390c60484dd7a5bc7d842.svg",
+    "index.html": "/FAQ-card/index.html",
+    "static/media/bg-pattern-mobile.svg": "/FAQ-card/static/media/bg-pattern-mobile.55aee9128a769eedabec262efb8ace48.svg",
+    "static/media/icon-arrow-down.svg": "/FAQ-card/static/media/icon-arrow-down.852fa301a0e795e07c5966b1c156025f.svg",
+    "main.560ce1a0.css.map": "/FAQ-card/static/css/main.560ce1a0.css.map",
+    "main.471e537c.js.map": "/FAQ-card/static/js/main.471e537c.js.map",
+    "787.bf125a00.chunk.js.map": "/FAQ-card/static/js/787.bf125a00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.560ce1a0.css",
+    "static/js/main.471e537c.js"
+  ]
+}
